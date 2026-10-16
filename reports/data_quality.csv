@@ -1,0 +1,7 @@
+table,record_id,reason,action
+products,P001,missing_category,filled_unknown
+orders,O00001,duplicate_id,quarantined
+orders,BAD-CUSTOMER,invalid_customer_link,quarantined
+orders,BAD-DATE,invalid_date,quarantined
+items,I00001-0,duplicate_id,quarantined
+items,BAD-PRICE,invalid_amount,quarantined

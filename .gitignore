@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.superpowers/
+.venv/
+data/retail.sqlite
+test-results/
+node_modules/
+*.log
